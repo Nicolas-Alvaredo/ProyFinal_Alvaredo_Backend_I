@@ -109,5 +109,3 @@ El servidor estará disponible en: [http://localhost:8080](http://localhost:8080
 - **No olvides configurar tu `.env` correctamente**.
 - **Asegúrate de tener MongoDB Atlas o una instancia local en funcionamiento**.
 - **Revisa los logs de consola para verificar la conexión a la base de datos**.
-
-¡Listo! Ahora puedes gestionar productos y carritos con un backend escalable y eficiente. 🚀
